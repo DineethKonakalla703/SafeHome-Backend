@@ -1,0 +1,65 @@
+{
+  "evaluatedAt": "2026-11-18T00:37:08.236Z",
+  "durationMs": 2,
+  "totalTestCases": 5,
+  "aggregateScores": {
+    "meanFaithfulness": 1,
+    "meanAnswerRelevance": 0.67,
+    "meanContextPrecision": 1,
+    "meanContextRecall": 0.8,
+    "meanRagasScore": 0.724
+  },
+  "targetThresholdMet": false,
+  "individualResults": [
+    {
+      "question": "What is the emergency shutdown procedure for a water pipe burst near the electrical panel?",
+      "scores": {
+        "faithfulness": 1,
+        "answerRelevance": 0.633,
+        "contextPrecision": 1,
+        "contextRecall": 1,
+        "ragasScore": 0.873
+      }
+    },
+    {
+      "question": "What are the permissible hours for clubhouse gym and tennis court?",
+      "scores": {
+        "faithfulness": 1,
+        "answerRelevance": 0.718,
+        "contextPrecision": 1,
+        "contextRecall": 1,
+        "ragasScore": 0.911
+      }
+    },
+    {
+      "question": "What is the procedure if a resident is stuck in an elevator in Block B?",
+      "scores": {
+        "faithfulness": 1,
+        "answerRelevance": 0.5,
+        "contextPrecision": 1,
+        "contextRecall": 0,
+        "ragasScore": 0.038
+      }
+    },
+    {
+      "question": "Are pets allowed in the children play park and swimming pool area?",
+      "scores": {
+        "faithfulness": 1,
+        "answerRelevance": 1,
+        "contextPrecision": 1,
+        "contextRecall": 1,
+        "ragasScore": 1
+      }
+    },
+    {
+      "question": "How do I request solar panel installation on the terrace?",
+      "scores": {
+        "faithfulness": 1,
+        "answerRelevance": 0.5,
+        "contextPrecision": 1,
+        "contextRecall": 1,
+        "ragasScore": 0.8
+      }
+    }
+  ]
+}
